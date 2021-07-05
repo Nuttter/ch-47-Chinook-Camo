@@ -8,6 +8,7 @@ Helicopter scripts can be found at SIBNIC Moddayz https://github.com/moddayz
 * Helichinook_RF_camo
 * RFchinook_Door_1_1_camo
 * RFchinook_Door_1_2_camo
+* RFchinook_Door_2_2
 * RFchinook_blade1
 * RFchinook_blade2
 * RFchinook_blade3
